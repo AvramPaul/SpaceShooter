@@ -1,0 +1,12 @@
+C:\Users\palinca\Desktop\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+C:\Users\palinca\Desktop\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe
+C:\Users\palinca\Desktop\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.pdb
+C:\Users\palinca\Desktop\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csprojAssemblyReference.cache
+C:\Users\palinca\Desktop\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.Form1.resources
+C:\Users\palinca\Desktop\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.Properties.Resources.resources
+C:\Users\palinca\Desktop\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.GenerateResource.cache
+C:\Users\palinca\Desktop\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+C:\Users\palinca\Desktop\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.exe
+C:\Users\palinca\Desktop\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.pdb
+C:\Users\palinca\Desktop\SpaceShooter\SpaceShooter\obj\Debug\Interop.WMPLib.dll
+C:\Users\palinca\Desktop\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.ResolveComReference.cache
